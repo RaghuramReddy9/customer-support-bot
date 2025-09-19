@@ -8,3 +8,4 @@ __pycache__/
 
 # Ignore build artifacts
 .DS_Store
+.gitattributes
